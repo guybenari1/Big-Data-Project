@@ -17,11 +17,11 @@ This project aims to predict car accident hotspots in Chicago by leveraging big 
 - Tableau or custom visualization tools
 
 ## How to Run
-- Set up Kafka and create topics.
-- Set up Spark and include necessary libraries.
-- Ingest batch data to Kafka topics.
-- Process data with Spark and train ML models.
-- Visualize results on the UI.
+- Set up Kafka and create topics
+- Set up Spark and include necessary libraries
+- Ingest batch data to Kafka topics
+- Process data with Spark and train ML models
+- Visualize results on the UI
 
 ## Project Highlights
 - Real-time data simulation with Kafka
